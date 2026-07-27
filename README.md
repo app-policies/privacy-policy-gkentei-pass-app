@@ -1,6 +1,6 @@
 # G検定Pass プライバシーポリシー
 
-最終更新日: 2026年6月21日
+最終更新日: 2026年7月27日
 
 G検定Pass（以下「本アプリ」）は、G検定の学習、広告表示、アプリ内課金、品質改善のために必要な範囲で情報を取り扱います。本ポリシーは、本アプリにおける情報の取り扱いについて説明するものです。
 
@@ -30,12 +30,13 @@ Google による情報の取り扱いについては、Google のポリシーを
 
 ### 1.3 アプリ内課金に関する情報
 
-本アプリはアプリ内課金の購入状態を管理するために RevenueCat SDK を利用する場合があります。購入状態の確認、復元、プレミアム機能の有効化のため、購入情報、アプリユーザーID、端末情報などが RevenueCat および Apple により取り扱われる場合があります。
+本アプリはアプリ内課金の購入状態を管理するために RevenueCat SDK を利用する場合があります。App Store または Google Play での購入状態の確認、復元、プレミアム機能の有効化のため、購入情報、アプリユーザーID、端末情報などが RevenueCat、Apple、または Google により取り扱われる場合があります。
 
 各サービスによる情報の取り扱いについては、以下をご確認ください。
 
 - RevenueCat Privacy Policy: https://www.revenuecat.com/privacy/
 - Apple Privacy Policy: https://www.apple.com/legal/privacy/
+- Google プライバシーポリシー: https://policies.google.com/privacy
 
 ### 1.4 利用状況の分析に関する情報
 
@@ -75,6 +76,7 @@ Google による情報の取り扱いについては、Google のポリシーを
 - RevenueCat
 - Firebase Analytics
 - Apple App Store / StoreKit
+- Google Play / Google Play Billing
 - Expo および Apple が提供するクラッシュ・診断関連機能
 
 本アプリの学習履歴は、原則として利用者の端末内に保存されます。ただし、OS、SDK、外部サービスの仕様により、広告、購入、利用状況の分析、クラッシュ、診断に関する情報が各サービスへ送信される場合があります。
